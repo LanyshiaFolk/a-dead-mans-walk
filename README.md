@@ -1,23 +1,25 @@
 # A Dead Man's Walk
 
-<insert mission statement>
+The mission statement for A Dead Man's Walk is...
 
 # How users can get started
 
-<insert quick start steps>
+To get started playing Dead Man's Walk you will...
 
 # Why you might use this project
 
-<insert benefits of the project>
+Why play Dead Man's Walk? Well because...
 
 # What this project does
 
-<insert technical features of the project>
+We created Dead Man's Walk using....
 
 # How users can get help
 
-<describe how users can get in touch with the team>
+Found a bug? Have a feature idea? [Create an Issue](https://github.com/AthleTechnology/a-dead-mans-walk/issues) and the team can help you out!
 
 # The Team
 
-<list our your names, roles on the team, and where people can get in touch with you>
+A Dead Man's Walk is brought to you by:
+
+- Jane Doe (@janedoe)
