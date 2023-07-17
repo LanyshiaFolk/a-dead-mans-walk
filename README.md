@@ -1,6 +1,8 @@
-# A Dead Man's Walk
+# A Dead Man's mission
 
-<insert mission statement>
+By September 2023 gamers (the people who are playing the game) will have a better concept on building a company from scratch. By playing a zombie apocalypse tycoon game that teaches the value of money. 
+
+
 
 # How users can get started
 
@@ -20,4 +22,8 @@
 
 # The Team
 
-<list our your names, roles on the team, and where people can get in touch with you>
+Lanyshia - scrum leader/product owner
+Renal - engineer
+Samuel - designer
+Chris - engineer
+Johan- designer
